@@ -1,0 +1,6570 @@
+[
+  {
+    "name": "HD 600",
+    "brand": "Sennheiser",
+    "type": "over-ear",
+    "preamp": -6.3,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 6.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 1473.0,
+        "gain": 3.2,
+        "q": 0.67,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 175.0,
+        "gain": -2.3,
+        "q": 0.94,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 5559.0,
+        "gain": -5.3,
+        "q": 4.22,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 3300.0,
+        "gain": 4.2,
+        "q": 2.8,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 5.1,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 7500.0,
+        "gain": -1.4,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 52.0,
+        "gain": 1.7,
+        "q": 1.2,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 660.0,
+        "gain": -0.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 8350.0,
+        "gain": -6.3,
+        "q": 4.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "HD 650",
+    "brand": "Sennheiser",
+    "type": "over-ear",
+    "preamp": -6.1,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 6.7,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 1474.0,
+        "gain": 3.1,
+        "q": 0.67,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 162.0,
+        "gain": -2.3,
+        "q": 1.02,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 5524.0,
+        "gain": -5.2,
+        "q": 3.72,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 3291.0,
+        "gain": 3.9,
+        "q": 2.67,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 6.1,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 8127.0,
+        "gain": -5.3,
+        "q": 3.08,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 50.0,
+        "gain": 1.5,
+        "q": 1.3,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 680.0,
+        "gain": -0.6,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 2200.0,
+        "gain": -0.4,
+        "q": 3.5,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "HD 660 S",
+    "brand": "Sennheiser",
+    "type": "over-ear",
+    "preamp": -6.3,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 6.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 1474.0,
+        "gain": 2.8,
+        "q": 0.67,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 157.0,
+        "gain": -1.9,
+        "q": 1.1,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 5524.0,
+        "gain": -6.3,
+        "q": 4.12,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 3400.0,
+        "gain": 4.5,
+        "q": 3.1,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 4.2,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 7800.0,
+        "gain": -2.0,
+        "q": 4.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 55.0,
+        "gain": 1.3,
+        "q": 1.2,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 700.0,
+        "gain": -0.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 8700.0,
+        "gain": -2.5,
+        "q": 5.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "HD 800 S",
+    "brand": "Sennheiser",
+    "type": "over-ear",
+    "preamp": -6.2,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 6.6,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 1773.0,
+        "gain": 2.7,
+        "q": 1.25,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 5776.0,
+        "gain": -6.2,
+        "q": 5.95,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 227.0,
+        "gain": -2.3,
+        "q": 0.66,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 6376.0,
+        "gain": 4.3,
+        "q": 5.11,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 2.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 4127.0,
+        "gain": -1.5,
+        "q": 4.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 3100.0,
+        "gain": 1.8,
+        "q": 3.5,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 8500.0,
+        "gain": -2.0,
+        "q": 4.0,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 55.0,
+        "gain": 0.8,
+        "q": 1.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "HD 560S",
+    "brand": "Sennheiser",
+    "type": "over-ear",
+    "preamp": -6.6,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 6.6,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 2036.0,
+        "gain": 5.3,
+        "q": 0.76,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 227.0,
+        "gain": -3.2,
+        "q": 0.81,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 5570.0,
+        "gain": -3.1,
+        "q": 3.2,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 4320.0,
+        "gain": 2.0,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -1.6,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 7800.0,
+        "gain": -1.5,
+        "q": 4.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 900.0,
+        "gain": -0.8,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 61.0,
+        "gain": 1.0,
+        "q": 1.2,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 1200.0,
+        "gain": 0.5,
+        "q": 3.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "HD25-1 II",
+    "brand": "Sennheiser",
+    "type": "over-ear",
+    "preamp": -5.4,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.8,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 88.0,
+        "gain": -5.8,
+        "q": 0.87,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 495.0,
+        "gain": 4.2,
+        "q": 0.52,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4682.0,
+        "gain": 5.6,
+        "q": 1.89,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 231.0,
+        "gain": -3.2,
+        "q": 2.59,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 4.1,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 9024.0,
+        "gain": -3.6,
+        "q": 3.88,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 2557.0,
+        "gain": -1.5,
+        "q": 4.51,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 43.0,
+        "gain": -1.3,
+        "q": 2.09,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 61.0,
+        "gain": 2.0,
+        "q": 1.38,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "K702",
+    "brand": "AKG",
+    "type": "over-ear",
+    "preamp": -6.1,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 7.7,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 2182.0,
+        "gain": -6.1,
+        "q": 0.84,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 65.0,
+        "gain": -3.3,
+        "q": 0.79,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4574.0,
+        "gain": 3.2,
+        "q": 3.66,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 3567.0,
+        "gain": 1.5,
+        "q": 3.45,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 5.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 8200.0,
+        "gain": -2.0,
+        "q": 4.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 700.0,
+        "gain": 0.8,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 1200.0,
+        "gain": 0.5,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 6500.0,
+        "gain": -1.0,
+        "q": 5.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "K371",
+    "brand": "AKG",
+    "type": "over-ear",
+    "preamp": -5.6,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 3.2,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 31.0,
+        "gain": 5.3,
+        "q": 0.52,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 4465.0,
+        "gain": -5.6,
+        "q": 0.88,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 139.0,
+        "gain": -2.2,
+        "q": 1.33,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 1653.0,
+        "gain": -1.5,
+        "q": 2.04,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 0.8,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 6800.0,
+        "gain": 2.5,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 800.0,
+        "gain": 0.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 3000.0,
+        "gain": 1.0,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 9000.0,
+        "gain": -1.5,
+        "q": 4.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "ATH-M50x",
+    "brand": "Audio-Technica",
+    "type": "over-ear",
+    "preamp": -3.1,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 1.1,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 285.0,
+        "gain": -3.1,
+        "q": 0.73,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 7064.0,
+        "gain": -2.9,
+        "q": 3.48,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4339.0,
+        "gain": 1.6,
+        "q": 3.36,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 2163.0,
+        "gain": -1.3,
+        "q": 2.44,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -1.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 527.0,
+        "gain": 0.8,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 9500.0,
+        "gain": 1.5,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 1200.0,
+        "gain": 0.5,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 60.0,
+        "gain": 0.5,
+        "q": 1.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "ATH-M40x",
+    "brand": "Audio-Technica",
+    "type": "over-ear",
+    "preamp": -5.6,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 17.6,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 48.0,
+        "gain": -16.9,
+        "q": 0.48,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 348.0,
+        "gain": 6.0,
+        "q": 0.34,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 5150.0,
+        "gain": 3.3,
+        "q": 3.88,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 2979.0,
+        "gain": 1.8,
+        "q": 3.32,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -6.9,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 1378.0,
+        "gain": -1.4,
+        "q": 3.09,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 796.0,
+        "gain": 0.6,
+        "q": 3.19,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 6306.0,
+        "gain": 1.6,
+        "q": 4.09,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 2225.0,
+        "gain": 0.8,
+        "q": 4.27,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "ATH-R70x",
+    "brand": "Audio-Technica",
+    "type": "over-ear",
+    "preamp": -6.6,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 6.6,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 2814.0,
+        "gain": 3.3,
+        "q": 0.6,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 198.0,
+        "gain": -2.2,
+        "q": 1.22,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 5756.0,
+        "gain": -3.3,
+        "q": 3.5,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 4650.0,
+        "gain": 2.5,
+        "q": 5.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 3.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 8200.0,
+        "gain": -2.0,
+        "q": 4.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 50.0,
+        "gain": 0.8,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 700.0,
+        "gain": 0.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 1400.0,
+        "gain": -0.5,
+        "q": 3.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "LCD-2 Classic",
+    "brand": "Audeze",
+    "type": "over-ear",
+    "preamp": -6.1,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 1.9,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 2005.0,
+        "gain": 5.0,
+        "q": 0.74,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 799.0,
+        "gain": -6.1,
+        "q": 0.61,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 5362.0,
+        "gain": -4.1,
+        "q": 3.77,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 4100.0,
+        "gain": 3.0,
+        "q": 3.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 4.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 7200.0,
+        "gain": -1.5,
+        "q": 4.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 400.0,
+        "gain": 1.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 1300.0,
+        "gain": 0.5,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 9000.0,
+        "gain": -1.0,
+        "q": 5.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "DT 770 Pro",
+    "brand": "Beyerdynamic",
+    "type": "over-ear",
+    "preamp": -5.1,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": -3.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 6430.0,
+        "gain": -4.2,
+        "q": 4.93,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 3684.0,
+        "gain": 6.8,
+        "q": 1.26,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 213.0,
+        "gain": 3.5,
+        "q": 0.48,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 139.0,
+        "gain": -3.9,
+        "q": 1.87,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -5.4,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 93.0,
+        "gain": 3.5,
+        "q": 1.49,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 9561.0,
+        "gain": 2.3,
+        "q": 3.8,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 45.0,
+        "gain": -1.3,
+        "q": 1.94,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 119.0,
+        "gain": -2.1,
+        "q": 5.29,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "DT 880",
+    "brand": "Beyerdynamic",
+    "type": "over-ear",
+    "preamp": -6.4,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 7.4,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 112.0,
+        "gain": -3.4,
+        "q": 0.89,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1320.0,
+        "gain": 2.1,
+        "q": 0.48,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 5760.0,
+        "gain": -6.1,
+        "q": 4.07,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 4480.0,
+        "gain": 3.9,
+        "q": 3.29,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -3.1,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 480.0,
+        "gain": 0.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 234.0,
+        "gain": -0.4,
+        "q": 3.5,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 940.0,
+        "gain": -0.6,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 2939.0,
+        "gain": -0.5,
+        "q": 4.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "DT 990 Pro",
+    "brand": "Beyerdynamic",
+    "type": "over-ear",
+    "preamp": -6.7,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 10.1,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 541.0,
+        "gain": 3.1,
+        "q": 0.29,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 64.0,
+        "gain": -7.4,
+        "q": 0.62,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 7731.0,
+        "gain": -4.6,
+        "q": 4.77,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 640.0,
+        "gain": 0.6,
+        "q": 5.65,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -9.8,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 7136.0,
+        "gain": 3.1,
+        "q": 3.18,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 5897.0,
+        "gain": -4.8,
+        "q": 5.06,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 4193.0,
+        "gain": 1.1,
+        "q": 5.42,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 9436.0,
+        "gain": 2.7,
+        "q": 4.03,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Sundara",
+    "brand": "HIFIMAN",
+    "type": "over-ear",
+    "preamp": -5.2,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 5.4,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 1986.0,
+        "gain": 6.8,
+        "q": 0.55,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 3667.0,
+        "gain": -3.8,
+        "q": 4.8,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 208.0,
+        "gain": -1.5,
+        "q": 1.48,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 5973.0,
+        "gain": 4.4,
+        "q": 3.27,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -2.8,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 9192.0,
+        "gain": 2.8,
+        "q": 3.23,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 795.0,
+        "gain": -1.0,
+        "q": 2.31,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 465.0,
+        "gain": 1.2,
+        "q": 1.85,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 71.0,
+        "gain": -0.4,
+        "q": 3.38,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Cloud II",
+    "brand": "HyperX",
+    "type": "over-ear",
+    "preamp": -6.4,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.1,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 170.0,
+        "gain": -7.0,
+        "q": 0.62,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 271.0,
+        "gain": 3.7,
+        "q": 0.42,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3828.0,
+        "gain": 5.4,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 57.0,
+        "gain": -4.8,
+        "q": 1.59,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -7.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 8085.0,
+        "gain": -3.0,
+        "q": 4.64,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 2378.0,
+        "gain": -1.9,
+        "q": 2.41,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 3700.0,
+        "gain": 1.3,
+        "q": 0.27,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 1123.0,
+        "gain": 1.1,
+        "q": 2.94,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "MDR-7506",
+    "brand": "Sony",
+    "type": "over-ear",
+    "preamp": -5.8,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 6.6,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 2219.0,
+        "gain": -5.8,
+        "q": 0.73,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 162.0,
+        "gain": -2.3,
+        "q": 1.25,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4776.0,
+        "gain": 3.0,
+        "q": 4.08,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 3800.0,
+        "gain": 3.5,
+        "q": 1.73,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -3.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 9000.0,
+        "gain": -4.0,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 50.0,
+        "gain": 1.0,
+        "q": 1.2,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 700.0,
+        "gain": 0.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 6800.0,
+        "gain": -1.0,
+        "q": 5.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "SHP9500",
+    "brand": "Philips",
+    "type": "over-ear",
+    "preamp": -6.4,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 8.3,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 73.0,
+        "gain": -5.5,
+        "q": 0.63,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 2258.0,
+        "gain": -6.4,
+        "q": 0.65,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 5087.0,
+        "gain": 3.0,
+        "q": 3.64,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 4100.0,
+        "gain": 2.5,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 4.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 8200.0,
+        "gain": -2.5,
+        "q": 4.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 350.0,
+        "gain": 0.8,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 1200.0,
+        "gain": 0.5,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 6500.0,
+        "gain": -1.0,
+        "q": 5.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Fidelio X2HR",
+    "brand": "Philips",
+    "type": "over-ear",
+    "preamp": -6.4,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.2,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 2118.0,
+        "gain": -6.4,
+        "q": 0.6,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 133.0,
+        "gain": -3.0,
+        "q": 1.62,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4574.0,
+        "gain": 3.8,
+        "q": 3.34,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 3300.0,
+        "gain": 3.0,
+        "q": 1.7,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 2.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 8000.0,
+        "gain": -3.0,
+        "q": 4.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 550.0,
+        "gain": 1.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 1100.0,
+        "gain": 0.5,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 60.0,
+        "gain": 0.8,
+        "q": 1.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "WH-1000XM4",
+    "brand": "Sony",
+    "type": "over-ear",
+    "preamp": -6.1,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 6.3,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 145.0,
+        "gain": -3.8,
+        "q": 0.9,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 2049.0,
+        "gain": -6.1,
+        "q": 0.68,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4608.0,
+        "gain": 3.2,
+        "q": 2.9,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 3500.0,
+        "gain": 3.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 2.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 8000.0,
+        "gain": -3.5,
+        "q": 4.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 600.0,
+        "gain": 0.8,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 50.0,
+        "gain": 1.0,
+        "q": 1.2,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 6500.0,
+        "gain": -1.5,
+        "q": 5.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "WH-1000XM5",
+    "brand": "Sony",
+    "type": "over-ear",
+    "preamp": -6.2,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 5.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 1844.0,
+        "gain": -4.5,
+        "q": 0.62,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 134.0,
+        "gain": -6.2,
+        "q": 0.45,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4614.0,
+        "gain": 4.5,
+        "q": 1.41,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 3300.0,
+        "gain": 3.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 7800.0,
+        "gain": -3.0,
+        "q": 4.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 500.0,
+        "gain": 1.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 55.0,
+        "gain": 0.8,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 6000.0,
+        "gain": -1.0,
+        "q": 5.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "AirPods Max",
+    "brand": "Apple",
+    "type": "over-ear",
+    "preamp": -4.7,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 3.2,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 186.0,
+        "gain": -1.5,
+        "q": 1.13,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 5375.0,
+        "gain": -4.7,
+        "q": 2.42,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3350.0,
+        "gain": 2.8,
+        "q": 2.2,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 7400.0,
+        "gain": 2.0,
+        "q": 4.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.2,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 1500.0,
+        "gain": -0.8,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 65.0,
+        "gain": 0.5,
+        "q": 1.2,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 9000.0,
+        "gain": -1.5,
+        "q": 4.0,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 800.0,
+        "gain": 0.5,
+        "q": 2.5,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "QuietComfort 45",
+    "brand": "Bose",
+    "type": "over-ear",
+    "preamp": -2.2,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 0.8,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 196.0,
+        "gain": -2.2,
+        "q": 0.85,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 5200.0,
+        "gain": -1.5,
+        "q": 3.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3400.0,
+        "gain": 1.2,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 7500.0,
+        "gain": 1.0,
+        "q": 4.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -1.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 1300.0,
+        "gain": -0.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 60.0,
+        "gain": 0.5,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 850.0,
+        "gain": 0.3,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 9500.0,
+        "gain": -0.5,
+        "q": 5.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "WF-1000XM4",
+    "brand": "Sony",
+    "type": "in-ear",
+    "preamp": -7.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 7.4,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 169.0,
+        "gain": -5.9,
+        "q": 0.97,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1758.0,
+        "gain": -2.3,
+        "q": 1.81,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4450.0,
+        "gain": -4.0,
+        "q": 3.05,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 3000.0,
+        "gain": 2.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 3.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 7200.0,
+        "gain": -1.5,
+        "q": 4.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 500.0,
+        "gain": 0.8,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 55.0,
+        "gain": 0.5,
+        "q": 1.2,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 9000.0,
+        "gain": -1.0,
+        "q": 5.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "WF-1000XM5",
+    "brand": "Sony",
+    "type": "in-ear",
+    "preamp": -2.6,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.4,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 60.0,
+        "gain": -2.6,
+        "q": 0.9,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 6700.0,
+        "gain": -1.8,
+        "q": 3.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 1600.0,
+        "gain": -1.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 4200.0,
+        "gain": 1.0,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -1.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 350.0,
+        "gain": -0.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 850.0,
+        "gain": 0.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 9500.0,
+        "gain": 0.5,
+        "q": 5.0,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 2500.0,
+        "gain": -0.5,
+        "q": 3.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Galaxy Buds2 Pro",
+    "brand": "Samsung",
+    "type": "in-ear",
+    "preamp": -2.3,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 1.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 172.0,
+        "gain": -2.3,
+        "q": 0.72,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 5200.0,
+        "gain": -1.5,
+        "q": 3.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 1600.0,
+        "gain": 1.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 3800.0,
+        "gain": 1.5,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -0.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 7500.0,
+        "gain": -0.8,
+        "q": 4.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 60.0,
+        "gain": 0.5,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 650.0,
+        "gain": 0.3,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 9000.0,
+        "gain": -0.5,
+        "q": 5.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "IE 600",
+    "brand": "Sennheiser",
+    "type": "in-ear",
+    "preamp": -5.3,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 0.8,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 193.0,
+        "gain": -5.3,
+        "q": 0.59,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 5100.0,
+        "gain": -3.5,
+        "q": 3.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 1700.0,
+        "gain": 2.0,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 3500.0,
+        "gain": 2.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 7800.0,
+        "gain": -1.5,
+        "q": 4.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 50.0,
+        "gain": 0.5,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 700.0,
+        "gain": 0.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 9500.0,
+        "gain": -0.8,
+        "q": 5.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "ER2SE",
+    "brand": "Etymotic",
+    "type": "in-ear",
+    "preamp": -6.3,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 1558.0,
+        "gain": 5.2,
+        "q": 0.61,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 167.0,
+        "gain": -2.0,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 5000.0,
+        "gain": -3.5,
+        "q": 3.5,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 3800.0,
+        "gain": 2.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -6.3,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 7500.0,
+        "gain": -2.0,
+        "q": 4.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 350.0,
+        "gain": 0.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 55.0,
+        "gain": 0.8,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 9500.0,
+        "gain": 1.0,
+        "q": 5.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "SE215",
+    "brand": "Shure",
+    "type": "in-ear",
+    "preamp": -5.7,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 2.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 200.0,
+        "gain": -5.7,
+        "q": 0.5,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 2854.0,
+        "gain": 5.5,
+        "q": 0.73,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 5200.0,
+        "gain": -3.5,
+        "q": 3.5,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 4200.0,
+        "gain": 2.3,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 2.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 7800.0,
+        "gain": -2.0,
+        "q": 4.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 55.0,
+        "gain": 1.0,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 800.0,
+        "gain": 0.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 1300.0,
+        "gain": -0.5,
+        "q": 3.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "SE535",
+    "brand": "Shure",
+    "type": "in-ear",
+    "preamp": -6.6,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.2,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 1880.0,
+        "gain": 5.5,
+        "q": 0.55,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 174.0,
+        "gain": -3.5,
+        "q": 1.2,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 5300.0,
+        "gain": -4.0,
+        "q": 3.5,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 3800.0,
+        "gain": 3.0,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -6.6,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 7200.0,
+        "gain": -2.0,
+        "q": 4.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 55.0,
+        "gain": 1.0,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 700.0,
+        "gain": 0.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 9500.0,
+        "gain": 1.5,
+        "q": 5.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Blessing 2",
+    "brand": "Moondrop",
+    "type": "in-ear",
+    "preamp": -3.3,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 2.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 168.0,
+        "gain": -1.5,
+        "q": 1.2,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 5800.0,
+        "gain": -3.3,
+        "q": 3.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 1500.0,
+        "gain": 1.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 3500.0,
+        "gain": 1.5,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -1.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 7800.0,
+        "gain": -1.0,
+        "q": 4.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 55.0,
+        "gain": 0.5,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 700.0,
+        "gain": 0.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 9000.0,
+        "gain": -0.5,
+        "q": 5.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Starfield",
+    "brand": "Moondrop",
+    "type": "in-ear",
+    "preamp": -4.6,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 0.8,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 168.0,
+        "gain": -4.6,
+        "q": 0.62,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 6400.0,
+        "gain": 2.5,
+        "q": 3.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 1500.0,
+        "gain": 1.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 3500.0,
+        "gain": 1.0,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -3.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 8000.0,
+        "gain": -1.0,
+        "q": 4.0,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 55.0,
+        "gain": 0.8,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 700.0,
+        "gain": 0.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 4500.0,
+        "gain": -0.5,
+        "q": 4.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Chu",
+    "brand": "Moondrop",
+    "type": "in-ear",
+    "preamp": -2.2,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 0.8,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 8728.0,
+        "gain": 2.3,
+        "q": 2.22,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 660.0,
+        "gain": 1.2,
+        "q": 0.72,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 165.0,
+        "gain": -1.2,
+        "q": 1.58,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 69.0,
+        "gain": 1.7,
+        "q": 1.21,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -2.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 1470.0,
+        "gain": -1.1,
+        "q": 2.13,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 942.0,
+        "gain": 0.7,
+        "q": 3.53,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 4153.0,
+        "gain": 0.6,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 2772.0,
+        "gain": -0.5,
+        "q": 3.77,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Aria",
+    "brand": "Moondrop",
+    "type": "in-ear",
+    "preamp": -3.4,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": -0.2,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 164.0,
+        "gain": -2.6,
+        "q": 0.68,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 6460.0,
+        "gain": 3.5,
+        "q": 4.51,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 659.0,
+        "gain": 1.4,
+        "q": 0.47,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 3108.0,
+        "gain": 0.5,
+        "q": 2.59,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -5.3,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 8665.0,
+        "gain": 2.1,
+        "q": 2.45,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 1408.0,
+        "gain": -0.5,
+        "q": 3.91,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 54.0,
+        "gain": 0.9,
+        "q": 0.92,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 31.0,
+        "gain": -0.4,
+        "q": 1.79,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "ZSN Pro X",
+    "brand": "KZ",
+    "type": "in-ear",
+    "preamp": -3.8,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 0.8,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 928.0,
+        "gain": 5.3,
+        "q": 0.66,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 166.0,
+        "gain": -3.4,
+        "q": 0.67,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 2193.0,
+        "gain": -4.4,
+        "q": 0.61,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 3392.0,
+        "gain": 6.1,
+        "q": 2.82,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -4.4,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 6459.0,
+        "gain": 3.5,
+        "q": 5.25,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 4968.0,
+        "gain": -3.5,
+        "q": 5.59,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 4039.0,
+        "gain": 1.3,
+        "q": 6.0,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 5964.0,
+        "gain": 0.9,
+        "q": 5.91,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Salnotes Zero",
+    "brand": "7Hz",
+    "type": "in-ear",
+    "preamp": -2.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": -0.4,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 7148.0,
+        "gain": 2.5,
+        "q": 1.39,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 186.0,
+        "gain": -1.3,
+        "q": 1.35,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 65.0,
+        "gain": 1.7,
+        "q": 1.11,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 1677.0,
+        "gain": -1.1,
+        "q": 1.82,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -1.3,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 857.0,
+        "gain": 0.9,
+        "q": 1.64,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 9824.0,
+        "gain": 0.9,
+        "q": 1.98,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 3316.0,
+        "gain": -0.6,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 1261.0,
+        "gain": -0.7,
+        "q": 3.34,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Hexa",
+    "brand": "Truthear",
+    "type": "in-ear",
+    "preamp": -3.2,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": -0.1,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 4844.0,
+        "gain": 3.4,
+        "q": 1.81,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 199.0,
+        "gain": -1.9,
+        "q": 1.54,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 62.0,
+        "gain": 1.6,
+        "q": 1.05,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 3160.0,
+        "gain": -2.1,
+        "q": 3.72,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -4.4,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 707.0,
+        "gain": 1.0,
+        "q": 1.89,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 6318.0,
+        "gain": 1.6,
+        "q": 5.54,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 349.0,
+        "gain": -0.5,
+        "q": 2.22,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 2113.0,
+        "gain": 0.6,
+        "q": 3.41,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Zero",
+    "brand": "Truthear",
+    "type": "in-ear",
+    "preamp": -4.3,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 6.7,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 254.0,
+        "gain": 3.6,
+        "q": 0.38,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 71.0,
+        "gain": -7.3,
+        "q": 0.42,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4967.0,
+        "gain": -2.5,
+        "q": 3.55,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 2574.0,
+        "gain": -1.4,
+        "q": 1.07,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -2.1,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 352.0,
+        "gain": -0.6,
+        "q": 2.27,
+        "enabled": true
+      },
+      {
+        "id": "a8",
+        "type": 0,
+        "frequency": 658.0,
+        "gain": 0.6,
+        "q": 2.25,
+        "enabled": true
+      },
+      {
+        "id": "a9",
+        "type": 0,
+        "frequency": 207.0,
+        "gain": 0.6,
+        "q": 3.05,
+        "enabled": true
+      },
+      {
+        "id": "a10",
+        "type": 0,
+        "frequency": 1186.0,
+        "gain": -0.4,
+        "q": 2.72,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "WH-1000XM3",
+    "brand": "Sony",
+    "type": "over-ear",
+    "preamp": -6.3,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 6.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 152.0,
+        "gain": -2.7,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1000.0,
+        "gain": -1.5,
+        "q": 0.88,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3130.0,
+        "gain": -2.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 5000.0,
+        "gain": 5.3,
+        "q": 2.38,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 0,
+        "frequency": 9000.0,
+        "gain": -2.2,
+        "q": 1.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "WH-CH720N",
+    "brand": "Sony",
+    "type": "over-ear",
+    "preamp": -5.1,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 5.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 240.0,
+        "gain": -2.0,
+        "q": 0.8,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1200.0,
+        "gain": -1.8,
+        "q": 1.2,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3500.0,
+        "gain": -3.0,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 6000.0,
+        "gain": 4.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.5,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "WH-XB910N",
+    "brand": "Sony",
+    "type": "over-ear",
+    "preamp": -7.8,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 7.8,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 80.0,
+        "gain": -5.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 250.0,
+        "gain": -2.5,
+        "q": 0.8,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 2000.0,
+        "gain": -2.0,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 5000.0,
+        "gain": 4.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 2.0,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "MDR-7506",
+    "brand": "Sony",
+    "type": "over-ear",
+    "preamp": -2.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 3.8,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 60.0,
+        "gain": -2.0,
+        "q": 1.2,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 900.0,
+        "gain": 1.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3200.0,
+        "gain": -2.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 6300.0,
+        "gain": 2.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 0,
+        "frequency": 10000.0,
+        "gain": -3.0,
+        "q": 1.5,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "WF-1000XM4",
+    "brand": "Sony",
+    "type": "in-ear",
+    "preamp": -5.0,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 5.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 160.0,
+        "gain": -3.0,
+        "q": 0.9,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1500.0,
+        "gain": -1.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3800.0,
+        "gain": -3.5,
+        "q": 1.2,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 7000.0,
+        "gain": 4.0,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.0,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "HD 650",
+    "brand": "Sennheiser",
+    "type": "over-ear",
+    "preamp": -8.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 8.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 90.0,
+        "gain": -3.0,
+        "q": 0.89,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 310.0,
+        "gain": 1.5,
+        "q": 1.88,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 965.0,
+        "gain": 3.5,
+        "q": 1.37,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 2825.0,
+        "gain": 5.0,
+        "q": 0.73,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 0,
+        "frequency": 4500.0,
+        "gain": -4.3,
+        "q": 1.32,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 9500.0,
+        "gain": 3.7,
+        "q": 1.8,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "HD 660S",
+    "brand": "Sennheiser",
+    "type": "over-ear",
+    "preamp": -7.8,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 7.8,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 1100.0,
+        "gain": 3.2,
+        "q": 0.9,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 3200.0,
+        "gain": 4.5,
+        "q": 1.2,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 5500.0,
+        "gain": -4.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 8000.0,
+        "gain": -2.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 0,
+        "frequency": 10500.0,
+        "gain": 3.0,
+        "q": 2.0,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "HD 800 S",
+    "brand": "Sennheiser",
+    "type": "over-ear",
+    "preamp": -3.6,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 3.6,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 250.0,
+        "gain": -2.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1050.0,
+        "gain": 2.5,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3100.0,
+        "gain": 3.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 5600.0,
+        "gain": -3.5,
+        "q": 3.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 0,
+        "frequency": 6000.0,
+        "gain": -4.0,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.5,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Momentum 4 Wireless",
+    "brand": "Sennheiser",
+    "type": "over-ear",
+    "preamp": -5.2,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 5.2,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 200.0,
+        "gain": -2.5,
+        "q": 0.8,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 2200.0,
+        "gain": 2.0,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3800.0,
+        "gain": -3.0,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 6500.0,
+        "gain": 3.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.5,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "IE 300",
+    "brand": "Sennheiser",
+    "type": "in-ear",
+    "preamp": -8.4,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 8.4,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 130.0,
+        "gain": -7.0,
+        "q": 0.8,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 680.0,
+        "gain": -1.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3400.0,
+        "gain": -2.0,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 5500.0,
+        "gain": 3.5,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.0,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "IE 600",
+    "brand": "Sennheiser",
+    "type": "in-ear",
+    "preamp": -7.0,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 7.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 100.0,
+        "gain": -5.5,
+        "q": 0.8,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1800.0,
+        "gain": -1.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4200.0,
+        "gain": -2.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 6500.0,
+        "gain": 3.0,
+        "q": 3.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.5,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "DT 770 Pro 250 Ohm",
+    "brand": "Beyerdynamic",
+    "type": "over-ear",
+    "preamp": -4.0,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 60.0,
+        "gain": -2.5,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 300.0,
+        "gain": -1.5,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3800.0,
+        "gain": 3.5,
+        "q": 1.2,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 6300.0,
+        "gain": -5.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 0,
+        "frequency": 8500.0,
+        "gain": 3.0,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -1.5,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "DT 880 Pro 250 Ohm",
+    "brand": "Beyerdynamic",
+    "type": "over-ear",
+    "preamp": -3.8,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 3.8,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 70.0,
+        "gain": -2.0,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1100.0,
+        "gain": 2.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4000.0,
+        "gain": 3.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 6000.0,
+        "gain": -5.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 0,
+        "frequency": 9000.0,
+        "gain": 2.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -2.0,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "DT 990 Pro 250 Ohm",
+    "brand": "Beyerdynamic",
+    "type": "over-ear",
+    "preamp": -4.3,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.3,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 70.0,
+        "gain": -2.5,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1100.0,
+        "gain": 2.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3500.0,
+        "gain": 3.0,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 6000.0,
+        "gain": -6.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 0,
+        "frequency": 8500.0,
+        "gain": 3.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -2.5,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "DT 700 Pro X",
+    "brand": "Beyerdynamic",
+    "type": "over-ear",
+    "preamp": -3.0,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 3.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 200.0,
+        "gain": -1.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1200.0,
+        "gain": 2.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3300.0,
+        "gain": 3.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 5800.0,
+        "gain": -4.5,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -1.0,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "DT 900 Pro X",
+    "brand": "Beyerdynamic",
+    "type": "over-ear",
+    "preamp": -3.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 3.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 200.0,
+        "gain": -1.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1100.0,
+        "gain": 2.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3200.0,
+        "gain": 3.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 5500.0,
+        "gain": -5.5,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -1.5,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "ATH-M40x",
+    "brand": "Audio-Technica",
+    "type": "over-ear",
+    "preamp": -2.8,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 2.8,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 60.0,
+        "gain": -2.5,
+        "q": 1.2,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 900.0,
+        "gain": 1.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3200.0,
+        "gain": -2.0,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 7000.0,
+        "gain": 3.0,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -1.5,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "ATH-R70x",
+    "brand": "Audio-Technica",
+    "type": "over-ear",
+    "preamp": -5.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 5.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 1300.0,
+        "gain": 3.0,
+        "q": 1.2,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 3500.0,
+        "gain": 4.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 6200.0,
+        "gain": -5.0,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 9000.0,
+        "gain": 2.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.0,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "ATH-AD700x",
+    "brand": "Audio-Technica",
+    "type": "over-ear",
+    "preamp": -4.2,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.2,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 1200.0,
+        "gain": 2.0,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 3000.0,
+        "gain": 4.0,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 5500.0,
+        "gain": -4.2,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 8500.0,
+        "gain": 2.0,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 0.5,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Elite 85h",
+    "brand": "Jabra",
+    "type": "over-ear",
+    "preamp": -5.0,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 5.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 180.0,
+        "gain": -2.5,
+        "q": 0.9,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1500.0,
+        "gain": -2.0,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3500.0,
+        "gain": -3.0,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 6500.0,
+        "gain": 4.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 2.0,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Elite 7 Pro",
+    "brand": "Jabra",
+    "type": "in-ear",
+    "preamp": -4.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 200.0,
+        "gain": -3.0,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 2000.0,
+        "gain": -1.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4500.0,
+        "gain": -2.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 8000.0,
+        "gain": 3.0,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.5,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Elite 75t",
+    "brand": "Jabra",
+    "type": "in-ear",
+    "preamp": -4.8,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.8,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 170.0,
+        "gain": -3.5,
+        "q": 0.8,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1800.0,
+        "gain": -1.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4000.0,
+        "gain": -2.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 7500.0,
+        "gain": 3.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.0,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "K701",
+    "brand": "AKG",
+    "type": "over-ear",
+    "preamp": -4.0,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 1000.0,
+        "gain": 2.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 3000.0,
+        "gain": 4.0,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4800.0,
+        "gain": -3.0,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 8500.0,
+        "gain": 2.0,
+        "q": 2.5,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "K712 Pro",
+    "brand": "AKG",
+    "type": "over-ear",
+    "preamp": -3.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 3.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 1100.0,
+        "gain": 2.0,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 3000.0,
+        "gain": 3.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4500.0,
+        "gain": -3.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 8000.0,
+        "gain": 2.0,
+        "q": 2.5,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Elear",
+    "brand": "Focal",
+    "type": "over-ear",
+    "preamp": -4.8,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.8,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 1100.0,
+        "gain": 3.5,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 2600.0,
+        "gain": 3.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4200.0,
+        "gain": -4.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 8000.0,
+        "gain": 2.0,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.0,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Elegia",
+    "brand": "Focal",
+    "type": "over-ear",
+    "preamp": -5.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 5.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 1300.0,
+        "gain": 3.0,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 2800.0,
+        "gain": 4.0,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4500.0,
+        "gain": -5.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 7500.0,
+        "gain": 2.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.0,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Bathys",
+    "brand": "Focal",
+    "type": "over-ear",
+    "preamp": -4.0,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 200.0,
+        "gain": -2.0,
+        "q": 0.8,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 2000.0,
+        "gain": 2.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4000.0,
+        "gain": -3.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 7000.0,
+        "gain": 3.0,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.5,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "HE400se",
+    "brand": "HIFIMAN",
+    "type": "over-ear",
+    "preamp": -4.0,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 1100.0,
+        "gain": 2.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 3000.0,
+        "gain": 4.0,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 5000.0,
+        "gain": -4.0,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 8000.0,
+        "gain": 2.5,
+        "q": 2.5,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Edition XS",
+    "brand": "HIFIMAN",
+    "type": "over-ear",
+    "preamp": -3.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 3.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 1000.0,
+        "gain": 2.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 2800.0,
+        "gain": 3.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4500.0,
+        "gain": -3.5,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 8000.0,
+        "gain": 2.0,
+        "q": 2.5,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Deva",
+    "brand": "HIFIMAN",
+    "type": "over-ear",
+    "preamp": -5.0,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 5.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 1200.0,
+        "gain": 2.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 3000.0,
+        "gain": 4.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4800.0,
+        "gain": -4.0,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 8000.0,
+        "gain": 2.5,
+        "q": 2.5,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "HD 6XX",
+    "brand": "Drop",
+    "type": "over-ear",
+    "preamp": -8.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 8.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 90.0,
+        "gain": -3.0,
+        "q": 0.89,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 310.0,
+        "gain": 1.5,
+        "q": 1.88,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 965.0,
+        "gain": 3.5,
+        "q": 1.37,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 2825.0,
+        "gain": 5.0,
+        "q": 0.73,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 0,
+        "frequency": 4500.0,
+        "gain": -4.3,
+        "q": 1.32,
+        "enabled": true
+      },
+      {
+        "id": "a7",
+        "type": 0,
+        "frequency": 9500.0,
+        "gain": 3.7,
+        "q": 1.8,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "PC38X",
+    "brand": "Drop",
+    "type": "over-ear",
+    "preamp": -3.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 3.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 250.0,
+        "gain": -1.5,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1000.0,
+        "gain": 2.0,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3500.0,
+        "gain": 3.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 6000.0,
+        "gain": -3.0,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.0,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Aria",
+    "brand": "Moondrop",
+    "type": "in-ear",
+    "preamp": -3.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 3.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 170.0,
+        "gain": -2.5,
+        "q": 0.9,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 950.0,
+        "gain": 1.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4500.0,
+        "gain": -2.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 7000.0,
+        "gain": 2.5,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.0,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Starfield",
+    "brand": "Moondrop",
+    "type": "in-ear",
+    "preamp": -3.8,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 3.8,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 170.0,
+        "gain": -2.8,
+        "q": 0.9,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 950.0,
+        "gain": 1.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4200.0,
+        "gain": -2.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 6800.0,
+        "gain": 2.5,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.0,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Blessing 2",
+    "brand": "Moondrop",
+    "type": "in-ear",
+    "preamp": -4.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 230.0,
+        "gain": -3.0,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1600.0,
+        "gain": -2.0,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4000.0,
+        "gain": -2.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 9000.0,
+        "gain": 2.5,
+        "q": 3.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.0,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Kato",
+    "brand": "Moondrop",
+    "type": "in-ear",
+    "preamp": -5.0,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 5.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 200.0,
+        "gain": -3.5,
+        "q": 0.9,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1500.0,
+        "gain": -1.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3800.0,
+        "gain": -2.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 8000.0,
+        "gain": 2.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.5,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Live 660NC",
+    "brand": "JBL",
+    "type": "over-ear",
+    "preamp": -5.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 5.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 150.0,
+        "gain": -3.0,
+        "q": 0.8,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1800.0,
+        "gain": -2.0,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3500.0,
+        "gain": -3.5,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 7000.0,
+        "gain": 3.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 2.0,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Club One",
+    "brand": "JBL",
+    "type": "over-ear",
+    "preamp": -4.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 180.0,
+        "gain": -2.5,
+        "q": 0.9,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 2000.0,
+        "gain": -1.5,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4000.0,
+        "gain": -2.5,
+        "q": 1.2,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 7500.0,
+        "gain": 3.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.5,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Tune 760NC",
+    "brand": "JBL",
+    "type": "over-ear",
+    "preamp": -6.0,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 6.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 100.0,
+        "gain": -4.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 300.0,
+        "gain": -1.5,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 2000.0,
+        "gain": -2.5,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 5000.0,
+        "gain": 3.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 2.5,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Galaxy Buds2",
+    "brand": "Samsung",
+    "type": "in-ear",
+    "preamp": -4.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 200.0,
+        "gain": -3.0,
+        "q": 0.9,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1800.0,
+        "gain": -1.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4000.0,
+        "gain": -2.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 8000.0,
+        "gain": 2.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.5,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Galaxy Buds FE",
+    "brand": "Samsung",
+    "type": "in-ear",
+    "preamp": -4.0,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 180.0,
+        "gain": -2.5,
+        "q": 0.9,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1600.0,
+        "gain": -1.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3800.0,
+        "gain": -2.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 7500.0,
+        "gain": 2.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.5,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "AirPods 3",
+    "brand": "Apple",
+    "type": "earbud",
+    "preamp": -5.0,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 5.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 200.0,
+        "gain": -3.5,
+        "q": 0.9,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 2000.0,
+        "gain": -1.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4000.0,
+        "gain": -2.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 8000.0,
+        "gain": 3.0,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.5,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "G Pro X",
+    "brand": "Logitech",
+    "type": "over-ear",
+    "preamp": -4.0,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 200.0,
+        "gain": -2.0,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1000.0,
+        "gain": 2.0,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3000.0,
+        "gain": -2.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 6000.0,
+        "gain": 3.0,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": -1.5,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "G435",
+    "brand": "Logitech",
+    "type": "over-ear",
+    "preamp": -5.0,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 5.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 150.0,
+        "gain": -3.0,
+        "q": 0.8,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1500.0,
+        "gain": -1.5,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3500.0,
+        "gain": -2.5,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 7000.0,
+        "gain": 3.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 2.0,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Arctis Pro",
+    "brand": "SteelSeries",
+    "type": "over-ear",
+    "preamp": -4.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 200.0,
+        "gain": -2.5,
+        "q": 0.8,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1200.0,
+        "gain": 2.0,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3500.0,
+        "gain": -3.0,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 6500.0,
+        "gain": 3.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.5,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Crusher EVO",
+    "brand": "Skullcandy",
+    "type": "over-ear",
+    "preamp": -8.0,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 8.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 60.0,
+        "gain": -6.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 250.0,
+        "gain": -2.5,
+        "q": 0.8,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 2000.0,
+        "gain": -2.0,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 5000.0,
+        "gain": 3.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 2.5,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Hesh ANC",
+    "brand": "Skullcandy",
+    "type": "over-ear",
+    "preamp": -6.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 6.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 120.0,
+        "gain": -4.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 300.0,
+        "gain": -2.0,
+        "q": 0.8,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 1800.0,
+        "gain": -2.0,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 4500.0,
+        "gain": 3.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 2.0,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "FH3",
+    "brand": "Fiio",
+    "type": "in-ear",
+    "preamp": -5.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 5.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 150.0,
+        "gain": -4.0,
+        "q": 0.8,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1200.0,
+        "gain": -1.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3800.0,
+        "gain": -2.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 7000.0,
+        "gain": 3.0,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.5,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "FD5",
+    "brand": "Fiio",
+    "type": "in-ear",
+    "preamp": -6.0,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 6.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 170.0,
+        "gain": -4.5,
+        "q": 0.8,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1500.0,
+        "gain": -1.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4000.0,
+        "gain": -2.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 7500.0,
+        "gain": 3.0,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.5,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "T2",
+    "brand": "Tin HiFi",
+    "type": "in-ear",
+    "preamp": -4.0,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 200.0,
+        "gain": -2.5,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 3500.0,
+        "gain": 3.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 6000.0,
+        "gain": -3.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 9500.0,
+        "gain": 2.0,
+        "q": 2.5,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "T4",
+    "brand": "Tin HiFi",
+    "type": "in-ear",
+    "preamp": -4.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 200.0,
+        "gain": -3.0,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 2500.0,
+        "gain": -1.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4500.0,
+        "gain": -2.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 8000.0,
+        "gain": 2.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.0,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Triple Driver",
+    "brand": "1More",
+    "type": "in-ear",
+    "preamp": -5.0,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 5.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 180.0,
+        "gain": -3.5,
+        "q": 0.8,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1500.0,
+        "gain": -1.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3500.0,
+        "gain": -2.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 8000.0,
+        "gain": 3.0,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.5,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Liberty 4",
+    "brand": "Soundcore",
+    "type": "in-ear",
+    "preamp": -4.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 4.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 180.0,
+        "gain": -3.0,
+        "q": 0.9,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1800.0,
+        "gain": -1.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3800.0,
+        "gain": -2.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 8000.0,
+        "gain": 2.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.0,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "Q45",
+    "brand": "Soundcore",
+    "type": "over-ear",
+    "preamp": -5.0,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 5.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 120.0,
+        "gain": -3.5,
+        "q": 0.8,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1500.0,
+        "gain": -2.0,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 3500.0,
+        "gain": -3.0,
+        "q": 1.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 7000.0,
+        "gain": 3.5,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 2.0,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "ZS10 Pro",
+    "brand": "KZ",
+    "type": "in-ear",
+    "preamp": -6.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 6.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 160.0,
+        "gain": -5.0,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1000.0,
+        "gain": -1.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4500.0,
+        "gain": -2.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 8000.0,
+        "gain": 2.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.0,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  },
+  {
+    "name": "ZEX Pro",
+    "brand": "KZ",
+    "type": "in-ear",
+    "preamp": -5.5,
+    "filters": [
+      {
+        "id": "a1",
+        "type": 1,
+        "frequency": 105.0,
+        "gain": 5.5,
+        "q": 0.7,
+        "enabled": true
+      },
+      {
+        "id": "a2",
+        "type": 0,
+        "frequency": 150.0,
+        "gain": -4.0,
+        "q": 0.8,
+        "enabled": true
+      },
+      {
+        "id": "a3",
+        "type": 0,
+        "frequency": 1000.0,
+        "gain": -1.5,
+        "q": 1.5,
+        "enabled": true
+      },
+      {
+        "id": "a4",
+        "type": 0,
+        "frequency": 4000.0,
+        "gain": -2.0,
+        "q": 2.0,
+        "enabled": true
+      },
+      {
+        "id": "a5",
+        "type": 0,
+        "frequency": 8000.0,
+        "gain": 2.5,
+        "q": 2.5,
+        "enabled": true
+      },
+      {
+        "id": "a6",
+        "type": 2,
+        "frequency": 10000.0,
+        "gain": 1.0,
+        "q": 0.71,
+        "enabled": true
+      }
+    ]
+  }
+]
